@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Source/">
+    <Project Path="src/Desafios/Desafios.csproj" Id="7dd86161-2a50-471c-82b7-55f935ff93a9" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="tests/Desafios.Tests/Desafios.Tests.csproj" Id="d4bb8277-af83-4bc6-b8a7-315e9c9d427f" />
+  </Folder>
+</Solution>
